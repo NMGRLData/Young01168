@@ -1,0 +1,158 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "",
+    "collection_version": "1.0:2.0",
+    "comment": "L:5 Hornblende, 4.80 mg",
+    "commit": "a05504eed1f0200b69ca58ef7fd22323b9490381",
+    "conditionals": [
+        {
+            "analysis_types": [],
+            "frequency": 10,
+            "hash_id": 8632465373490237506,
+            "level": 10,
+            "location": "setupfiles/spectrometer/default_conditionals.yaml",
+            "ntrips": 1,
+            "start_count": 5,
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ],
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L2(CDD)": {
+            "deflection": 0.0,
+            "gain": 1
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Hum.",
+                "pub_date": "2018-12-13T03:56:36",
+                "title": "iServer Hum.",
+                "value": 13.6
+            }
+        ],
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure",
+                "name": "Pressure",
+                "pub_date": "2018-12-13T06:29:38",
+                "title": "Building",
+                "value": 97.1
+            },
+            {
+                "device": "AirPressure2",
+                "name": "Pressure2",
+                "pub_date": "2018-12-13T01:49:13",
+                "title": "Lab",
+                "value": 87.3
+            }
+        ],
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger",
+                "name": "ColdFinger Temp.",
+                "pub_date": "2018-12-13T01:01:00",
+                "title": "Cold Finger",
+                "value": -199.0
+            },
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Temp.",
+                "pub_date": "2018-12-13T03:00:15",
+                "title": "iServer Temp.",
+                "value": 69.0
+            },
+            {
+                "device": "Chiller",
+                "name": "Coolant Temp.",
+                "pub_date": "2018-12-13T06:19:35",
+                "title": "Coolant",
+                "value": 16.0
+            },
+            {
+                "device": "JanMonitor",
+                "name": "JanDecabinTemp",
+                "pub_date": "2018-12-13T04:29:10",
+                "title": null,
+                "value": 35.5164835164835
+            }
+        ]
+    },
+    "experiment_queue_name": "LoadD0016",
+    "extraction": "felix_diode.py",
+    "identifier": "66765",
+    "increment": 7,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NM-300",
+    "irradiation_level": "L",
+    "irradiation_position": 5,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Felix",
+    "material": "Hornblende",
+    "measurement": "felix_analysis340_60_CDD_center.py",
+    "post_equilibration": "felix_pump_extraction_line.py",
+    "post_measurement": "felix_pump_ms.py",
+    "principal_investigator": "Young, D",
+    "project": "Young01168",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Young01168",
+    "sample": "DY18-RM-12",
+    "source": {
+        "emission": 825.764,
+        "trap": 248.607
+    },
+    "spec_sha": "3bd2c45b2f2676ab710e6ac6336b64023a76e170",
+    "timestamp": "2018-12-13T06:36:46.659233",
+    "tripped_conditional": null,
+    "username": "",
+    "uuid": "9240599f-4840-413b-ae40-853cb9b81971",
+    "whiff_result": null
+}
