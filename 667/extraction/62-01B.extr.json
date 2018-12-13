@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "a05504eed1f0200b69ca58ef7fd22323b9490381",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 40.0,
+    "extract_units": "watts",
+    "extract_value": 2.0,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0016",
+    "measured_response": "YidceGQ2I1x4YjhOXHgwMFx4MDBceDAwXHgwMFx4ZTAjXHhiYj1ceDAwXHgwMFx4ZmFEXHg4M1JceDA2QFx4MDBceDAwXHhmYURceDkyQ1x4ODNAXHgwMFx4MDBceGZhRFx4ZDJceGQ4XHhjM0BceDAwXHgwMFx4ZmFEXHhjM1x4MTdceDAyQVx4MDBceDAwXHhmYURceGM2ISJBXHgwMFx4MDBceGZhRFx4ZjItQkFceDAwXHgwMFx4ZmFEflhiQVx4MDBceDAwXHhmYURceGNmMFx4ODFBXHgwMFx4MDBceGZhRFx4YjI3XHg5MUFceDAwXHgwMFx4ZmFEXHhiZUJceGExQVx4MDBceDAwXHhmYURceDllT1x4YjFBXHgwMFx4MDBceGZhRFx4YTZdXHhjMUFceDAwXHgwMFx4ZmFEXHhhN2pceGQxQVx4MDBceDAwXHhmYURceGQzeVx4ZTFBXHgwMFx4MDBceGZhREZceDg4XHhmMUFceDAwXHgwMFx4ZmFEXHhiY1x4YzhceDAwQlx4MDBceDAwXHhmYURceDhkXHhjOVx4MDhCXHgwMFx4MDBceGZhRFx4MDNceGNkXHgxMEJceDAwXHgwMFx4ZmFEXHgxNVx4Y2NceDE4Qlx4MDBceDAwXHhmYURceGNkXHhjYyBCXHgwMFx4MDBceGZhRFx4ODlceGQzKEJceDAwXHgwMFx4ZmFEKFx4ZGMwQlx4MDBceDAwXHhmYURrXHhlMzhCXHgwMFx4MDBceGZhRCVceGYwQEJceDAwXHgwMFx4ZmFEXHhjNlx4ZjVIQlx4MDBceDAwXHhmYURceGQ1XHhmOVBCXHgwMFx4MDBceGZhRFx4YWFceDAwWUJceDAwXHgwMFx4ZmFEXHgwM1x4MDdhQlx4MDBceDAwXHhmYUQn",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "3",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 8.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidceGQ2I1x4YjhOXHgwMFx4MDBceDAwXHgwMFx4ZTAjXHhiYj1ceGE0Xlx4OTdBXHg4M1JceDA2QFx4MDBceDAwXHgwMFx4MDBceDkyQ1x4ODNAXHgwMFx4MDBceDAwXHgwMFx4ZDJceGQ4XHhjM0BceDAwXHgwMFx4MDBceDAwXHhjM1x4MTdceDAyQVxcXlx4OWNBXHhjNiEiQVxcXlx4OWNBXHhmMi1CQVxcXlx4OWNBflhiQVxcXlx4OWNBXHhjZjBceDgxQVxcXlx4OWNBXHhiMjdceDkxQVxcXlx4OWNBXHhiZUJceGExQVxcXlx4OWNBXHg5ZU9ceGIxQVxcXlx4OWNBXHhhNl1ceGMxQVxcXlx4OWNBXHhhN2pceGQxQVxcXlx4OWNBXHhkM3lceGUxQVxcXlx4OWNBRlx4ODhceGYxQVxcXlx4OWNBXHhiY1x4YzhceDAwQlxcXlx4OWNBXHg4ZFx4YzlceDA4QlxcXlx4OWNBXHgwM1x4Y2RceDEwQlxcXlx4OWNBXHgxNVx4Y2NceDE4QlxcXlx4OWNBXHhjZFx4Y2MgQlxcXlx4OWNBXHg4OVx4ZDMoQlxcXlx4OWNBKFx4ZGMwQlxcXlx4OWNBa1x4ZTM4QlxcXlx4OWNBJVx4ZjBAQlxcXlx4OWNBXHhjNlx4ZjVIQlxcXlx4OWNBXHhkNVx4ZjlQQlxcXlx4OWNBXHhhYVx4MDBZQlxcXlx4OWNBXHgwM1x4MDdhQlxcXlx4OWNBJw==",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 4.06
+}
